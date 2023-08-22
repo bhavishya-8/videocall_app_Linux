@@ -63,3 +63,4 @@ To receive video, you need to enter the IP address of the machine where the vide
 ---
 
 Feel free to explore and modify the code to suit your needs. This video call application can be a starting point for building more complex video communication systems or for learning how video streaming works in Python.
+![Running GIF](  https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg)
