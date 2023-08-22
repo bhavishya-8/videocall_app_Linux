@@ -24,7 +24,7 @@ This script implements a simple video call application using OpenCV and Tkinter.
 
 1. Install the required packages using `pip install opencv-python-headless`.
 2. Copy the provided code into your Python script or file.
-3. Run the script using `python your_script_name.py`.
+3. Run the script using `python finalcode.py`.
 
 ## Functionality
 
